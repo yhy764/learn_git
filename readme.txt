@@ -1,1 +1,1 @@
-hello git first file
+git is a finally version control ysy
